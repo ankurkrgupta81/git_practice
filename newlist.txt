@@ -3,3 +3,6 @@ Paints
 Tess
 Shirts
 Shoes
+SunGlasses
+Bags
+Purses
