@@ -1,4 +1,15 @@
+FRUITS AND VEGETABLES
 Bananas
 Apples
 Strawberries
 Oranges
+
+DRINKS
+Coke
+Pepsi
+Beer
+
+DAIRY
+Milk
+Cheese
+Ice Cream
