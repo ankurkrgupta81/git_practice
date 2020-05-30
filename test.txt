@@ -1,0 +1,8 @@
+bananas
+apples
+strawberries
+prune
+mangoes
+grapes
+pears
+dates
