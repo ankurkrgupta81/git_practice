@@ -6,4 +6,3 @@ mangoes
 grapes
 pears
 blueberries
-Books
